@@ -172,11 +172,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output  :
- ![image](before.jpeg)
- 
-  ![image](after.jpeg)
- 
- 
+ ![EX1](https://user-images.githubusercontent.com/119477975/228740562-b9e3c045-64f3-4b9e-9800-f3dce36db706.png)
+
 ## Result :
 Interfacing a digital output with ARM microcontroller is executed and the results are verified.
 
